@@ -5,21 +5,23 @@
     <description>Back-end developer</description>
     <link>http://grajewsky.pl/</link>
     <atom:link href="http://grajewsky.pl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Dec 2018 19:52:57 +0100</pubDate>
-    <lastBuildDate>Wed, 19 Dec 2018 19:52:57 +0100</lastBuildDate>
+    <pubDate>Wed, 19 Dec 2018 19:59:26 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Dec 2018 19:59:26 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>To ways for CMRs</title>
         <description>
 </description>
-        <pubDate>Sun, 08 Jun 2014 14:32:18 +0200</pubDate>
-        <link>http://grajewsky.pl/crm/2014/06/08/what-software-to-crm/</link>
-        <guid isPermaLink="true">http://grajewsky.pl/crm/2014/06/08/what-software-to-crm/</guid>
+        <pubDate>Sat, 15 Dec 2018 13:32:18 +0100</pubDate>
+        <link>http://grajewsky.pl/crm/2018/12/15/what-software-to-crm/</link>
+        <guid isPermaLink="true">http://grajewsky.pl/crm/2018/12/15/what-software-to-crm/</guid>
         
-        <category>thumbnails</category>
+        <category>php</category>
         
-        <category>carte noire</category>
+        <category>java</category>
+        
+        <category>crm</category>
         
         
         <category>crm</category>
