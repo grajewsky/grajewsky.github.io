@@ -1,36 +1,11 @@
 [
   
   {
-    "title"    : "Welcome to Carte Noire",
-    "category" : "",
-    "tags"     : "welcome, to, carte, noire",
-    "url"      : "https://grajewsky.github.io/portfolio/jekyll/2015/03/23/welcome-to-carte-noir/",
-    "date"     : "2015-03-23 16:31:19 +0100"
-    } ,
-    
-  {
-    "title"    : "Carte Noire in Action",
-    "category" : "",
-    "tags"     : "demo, action, carte, noire",
-    "url"      : "https://grajewsky.github.io/portfolio/jekyll/2014/06/10/carte-noire-in-action/",
-    "date"     : "2014-06-10 14:31:19 +0200"
-    } ,
-    
-  {
-    "title"    : "So, What is Jekyll?",
-    "category" : "",
-    "tags"     : "about, jekyll",
-    "url"      : "https://grajewsky.github.io/portfolio/jekyll/2014/06/09/so-what-is-jekyll/",
-    "date"     : "2014-06-09 14:32:18 +0200"
-    } ,
-    
-  {
-    "title"    : "Using thumbnails",
+    "title"    : "To ways for CMRs",
     "category" : "",
     "tags"     : "thumbnails, carte noire",
-    "url"      : "https://grajewsky.github.io/portfolio/jekyll/2014/06/08/using-thumbnails/",
+    "url"      : "/crm/2014/06/08/what-software-to-crm/",
     "date"     : "2014-06-08 14:32:18 +0200"
     } 
     
   ]
-
